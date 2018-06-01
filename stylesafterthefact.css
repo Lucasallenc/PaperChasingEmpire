@@ -1,0 +1,112 @@
+body {
+    font-family: 'Comfortaa', cursive;
+}
+
+h3 {
+    margin : 10px 0px 10px 0px;
+}
+
+.container-fluid {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.header {
+    padding-top: 10px;
+    position: sticky;
+    top: 0px;
+    text-align: center;
+    font-size: 10%;
+    background-color: white;
+    z-index: 1;
+    box-shadow: 0px 0px 90px black;
+}
+
+.subheaderspecial {
+    position: relative;
+}
+
+.subheader {
+    padding-top: 1px;
+    position: relative;
+}
+
+.clothingitems {
+    background-image: url("seamless-wood-texture-2.jpg");
+    background-repeat: repeat-y;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.items {
+    margin-top: 15px;
+}
+
+p {
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.media {
+    margin-bottom: 6px;
+}
+
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: px;
+}
+
+.mediabutton {
+    filter: drop-shadow(10px 10px 5px #333);   
+}
+
+h6 {
+    width: 100%;
+}
+
+.shirt {
+    height: 100%;
+    width: 100%;
+    float: right;
+    filter: drop-shadow(20px -20px 10px #333); 
+}
+
+.snipcart-add-item {
+    color: white;
+    background-color:grey;
+    border-color: grey;
+    border-radius: 10px;
+    margin: 10% 0% 10% 0%;
+}
+
+.snipcart-add-item:hover {
+    color: grey;
+    background-color: white;
+    border-color: white;
+    -webkit-transition: background-color 2s;
+    -webkit-transition: color 1s;
+}
+
+.button {
+    height: 20px;
+    width: 20px;
+    border-width: 2px;
+    border-radius: 50%;
+    margin: 5px 5px 5px 5px;
+}
+
+.item {
+    padding: 10px 0px 10px 0px;
+}
+
+#img1 {
+    height: 100%;
+}
+
+.items {
+    padding-left: 5%;
+}
